@@ -15,3 +15,9 @@ int main() {
 } 
 ``` 
 This is a new line of the text which is not "coded". 
+
+Now addin the task list. 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
